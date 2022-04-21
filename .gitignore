@@ -1,0 +1,5 @@
+key-file
+.terraform*
+.terraform/*
+terraform.tfstate*/*
+.env
